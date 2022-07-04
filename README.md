@@ -4,6 +4,10 @@
 
 <!-- <hr>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asit-piri&label=Profile%20views&color=0e75b6&style=flat" alt="asit-piri" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asit-piri&" alt="asit-piri" /></p>ˇ
+
 <hr> -->
 
 ### My Work Experiences:
